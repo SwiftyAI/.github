@@ -6,4 +6,4 @@ SwiftyAI aims to explore what is available to iOS and macOS developers with a fo
 
 In this organisation, you will find:
 
-- 💬 [**SwiftyMLC:**](https://github.com/SwiftyAI/SwiftyMLC) An example of integrating [MLC-LLM](https://github.com/mlc-ai/mlc-llm/) into an iOS app
+- 💬 [**SwiftyMLC:**](https://github.com/SwiftyAI/SwiftyMLC) An example of integrating [mlc-llm](https://github.com/mlc-ai/mlc-llm/) into an iOS app
